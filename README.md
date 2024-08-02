@@ -13,8 +13,8 @@ Here are some of the projects I'm currently working on:
 - **Spotify Clone**: A web application inspired by Spotify, designed to stream and manage music.
 
 ## 🚀 Skills
-- **Programming Languages**: HTML, CSS, JavaScript, Python, Pygame, Pascal, C++, C, Ren'Py, Turtle.py, TypeScript
-- **Tools**: Git, GitHub, Godot, Visual Studio Code, Dev C++, arduino.cc, linux
+- **Programming Languages**: HTML, CSS, JavaScript, Python, Pygame, Pascal, C++, C, Ren'Py, Turtle.py, TypeScript, Node.js, React
+- **Tools**: Git, GitHub, Godot, Visual Studio Code, Dev C++, Arduino.cc, Linux
 - **Design**: Drawing, Canva, ibisPaint X
 
 ## 📚 Interests
