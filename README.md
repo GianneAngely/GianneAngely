@@ -32,6 +32,6 @@ Here are some of the projects I'm currently working on:
 - **LinkedIn**: [Gianne Angely](https://www.linkedin.com/in/gianne-angely-341a74305)   
 - **Twitter**: [@AngelyGianne](https://twitter.com/AngelyGianne)          
 - **Instagram**: [@gianneangelyy](https://www.instagram.com/gianneangelyy)
-- **Email**: [gianneangelyy@gmail.com](mailto:your.email@gianneangelyy@gmail.com)
+- **Email**: [gianneangelyy@gmail.com](gianneangelyy@gmail.com)
 
 Feel free to check out my repositories and contribute to my projects! I'm always open to collaboration and new ideas. 😊
