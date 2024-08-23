@@ -9,8 +9,7 @@ I'm a university student studying **Informatics Engineering**. I'm passionate ab
 Here are some of the projects I'm currently working on:
 
 - **Portfolio Website**: A personal portfolio showcasing my skills, projects, and creative work.
-- **Web RPG Game**: An online role-playing game with a unique narrative and engaging gameplay.
-- **Spotify Clone**: A web application inspired by Spotify, designed to stream and manage music. (Only the front end)
+- **RPG Game**: An online role-playing game with a unique narrative and engaging gameplay.
 
 ## 🚀 Skills
 - **Programming Languages**: HTML, CSS, JavaScript, Python, Pygame, Pascal, C++, C, Ren'Py, Turtle.py, TypeScript, Node.js, React
