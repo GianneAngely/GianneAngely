@@ -17,79 +17,52 @@ Here are some of the exciting projects I'm currently working on:
 
 ---
 
-## 🚀 My Skillset
+## 💻 Tech Stack
 
-### 🌐 Programming Languages
+### 🚀 Frontend
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://devicon.dev/c" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-  <a href="https://www.freepascal.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Free_Pascal_Logo.svg" alt="Pascal" width="40" height="40" title="Pascal"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react" />
 </p>
 
-### 🛠️ Frameworks & Libraries
+### ⚙️ Backend & Frameworks
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> 
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/> 
-  </a>
-  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Python-logo-and-wordmark.svg/1280px-Python-logo-and-wordmark.svg.png" alt="Pygame" width="40" height="40" title="Pygame"/> 
-  </a>
-  <a href="https://docs.python.org/3/library/turtle.html" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Python-logo-and-wordmark.svg/1280px-Python-logo-and-wordmark.svg.png" alt="Turtle.py" width="40" height="40" title="Turtle.py"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" />
 </p>
 
-### 🎮 Game Engines & Development Tools
+### 🔤 Programming Languages
 <p align="left">
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40"/> </a>
-  <a href="https://www.renpy.org/" target="_blank" rel="noreferrer"> <img src="https://www.renpy.org/images/favicon.png" alt="Ren'Py" width="40" height="40" title="Ren'Py"/> </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,php" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Free_Pascal_Logo.svg" alt="Pascal" width="40" title="Pascal" />
 </p>
 
-### ⚙️ Development Tools & Environments
+### 🛢️ Databases
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino.cc" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
-  <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Dev-C%2B%2B_logo.png" alt="Dev C++" width="40" height="40" title="Dev C++"/> </a>
-  <a href="https://laragon.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/leokhoa/laragon/master/images/laragon.png" alt="Laragon" width="40" height="40" title="Laragon (Gajah)"/> 
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🎮 Game Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=godot" />
+  <img src="https://www.renpy.org/images/favicon.png" alt="Ren'Py" width="40" title="Ren'Py" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Python-logo-and-wordmark.svg/1280px-Python-logo-and-wordmark.svg.png" alt="Pygame" width="40" title="Pygame" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Python-logo-and-wordmark.svg/1280px-Python-logo-and-wordmark.svg.png" alt="Turtle.py" width="40" title="Turtle.py" />
+</p>
+
+### 🧰 Tools & Dev Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,linux,arduino" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Dev-C%2B%2B_logo.png" alt="Dev C++" width="40" title="Dev C++" />
+  <img src="https://raw.githubusercontent.com/leokhoa/laragon/master/images/laragon.png" alt="Laragon" width="40" title="Laragon" />
+  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" title="XAMPP" />
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" title="Discord" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="40" title="Notion" />
 </p>
 
 ### 🎨 Design & Creative Tools
 <p align="left">
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" height="40"/> </a>
-  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/d6/89/a4d6892e-3367-15e4-23aa-83a306857997/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-0-0-5-0-0-extCFBundleIcons-0-0-0-FDYPD.png/1200x630wa.png" alt="ibisPaint X" width="40" height="40" title="ibisPaint X"/>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" width="40" title="Canva" />
+  <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/a4/d6/89/a4d6892e-3367-15e4-23aa-83a306857997/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-0-0-5-0-0-extCFBundleIcons-0-0-0-FDYPD.png/1200x630wa.png" alt="ibisPaint X" width="40" title="ibisPaint X" />
 </p>
 
 ---
