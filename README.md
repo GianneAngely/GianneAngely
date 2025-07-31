@@ -135,8 +135,6 @@ Feel free to check out my repositories and contribute to my projects! I'm always
 - **Instagram**: [@gianneangelyy](https://www.instagram.com/gianneangelyy)
 - **Email**: [gianneangelyy@gmail.com](mailto:gianneangelyy@gmail.com)
 
-<img src="https://raw.githubusercontent.com/GianneAngely/GianneAngely/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
