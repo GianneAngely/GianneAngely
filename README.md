@@ -31,16 +31,35 @@ Here are some of the exciting projects I'm currently working on:
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
   <a href="https://www.freepascal.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Free_Pascal_Logo.svg" alt="Pascal" width="40" height="40" title="Pascal"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
 </p>
 
 ### 🛠️ Frameworks & Libraries
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> </a>
-  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Python-logo-and-wordmark.svg/1280px-Python-logo-and-wordmark.svg.png" alt="Pygame" width="40" height="40" title="Pygame"/> </a>
-  <a href="https://docs.python.org/3/library/turtle.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Python-logo-and-wordmark.svg/1280px-Python-logo-and-wordmark.svg.png" alt="Turtle.py" width="40" height="40" title="Turtle.py"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> 
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/> 
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/> 
+  </a>
+  <a href="https://www.pygame.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Python-logo-and-wordmark.svg/1280px-Python-logo-and-wordmark.svg.png" alt="Pygame" width="40" height="40" title="Pygame"/> 
+  </a>
+  <a href="https://docs.python.org/3/library/turtle.html" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Python-logo-and-wordmark.svg/1280px-Python-logo-and-wordmark.svg.png" alt="Turtle.py" width="40" height="40" title="Turtle.py"/> 
+  </a>
 </p>
 
 ### 🎮 Game Engines & Development Tools
@@ -57,6 +76,12 @@ Here are some of the exciting projects I'm currently working on:
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino.cc" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
   <a href="https://www.bloodshed.net/devcpp.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Dev-C%2B%2B_logo.png" alt="Dev C++" width="40" height="40" title="Dev C++"/> </a>
+  <a href="https://laragon.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/leokhoa/laragon/master/images/laragon.png" alt="Laragon" width="40" height="40" title="Laragon (Gajah)"/> 
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman"/> 
+  </a>
 </p>
 
 ### 🎨 Design & Creative Tools
@@ -109,3 +134,15 @@ Feel free to check out my repositories and contribute to my projects! I'm always
 - **Twitter**: [@AngelyGianne](https://twitter.com/AngelyGianne)          
 - **Instagram**: [@gianneangelyy](https://www.instagram.com/gianneangelyy)
 - **Email**: [gianneangelyy@gmail.com](mailto:gianneangelyy@gmail.com)
+
+<img src="https://raw.githubusercontent.com/GianneAngely/GianneAngely/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GianneAngely/GianneAngely/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GianneAngely/GianneAngely/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GianneAngely/GianneAngely/output/pacman-contribution-graph.svg">
+</picture>
+
+###
