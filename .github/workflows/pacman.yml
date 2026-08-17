@@ -2,7 +2,9 @@ name: Generate pacman animation
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    # Twice a day. The minute field must be a value, not "*" — with "*" this
+    # fired every minute of hours 0 and 12, roughly 120 runs a day.
+    - cron: "5 */12 * * *"
   workflow_dispatch:
   push:
     branches:

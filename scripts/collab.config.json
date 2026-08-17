@@ -1,0 +1,89 @@
+{
+  "_comment": "Controls the Collaborations cards. Edit this file, not the generated SVGs. The workflow regenerates everything on a schedule.",
+
+  "rules": {
+    "_comment": "A repo counts as a collaboration when I have at least minMyCommits commits AND some other human has at least minTheirCommits. Bots never count as humans.",
+    "minMyCommits": 2,
+    "minTheirCommits": 2,
+    "botLogins": ["Copilot", "dependabot", "github-actions"]
+  },
+
+  "alwaysInclude": {
+    "_comment": "Repos to keep even if the rules above reject them. Useful when my commits sit on a branch the contributors API ignores.",
+    "Alaika10/strukly_AI_UMKM": "My commits are on the Model-AI branch, so the contributors API reports zero for me."
+  },
+
+  "manualRepos": {
+    "_comment": "Repos the API cannot discover. A fine-grained token only sees resources owned by me, so private repos belonging to other people are invisible to it. Swap COLLAB_TOKEN for a classic token with the 'repo' scope and these get picked up automatically instead, at which case live data wins over what is written here.",
+    "entries": [
+      {
+        "full": "OnlyOneArthur/UPTERRA",
+        "isPrivate": true,
+        "lang": "JavaScript",
+        "stars": 0,
+        "myCommits": 14,
+        "desc": "Eco-tech waste app. I built the Gemini Live AI camera scan and the realtime voice and video assistant."
+      },
+      {
+        "full": "OnlyOneArthur/TheDeadLineWarriorProject",
+        "isPrivate": true,
+        "lang": "Processing",
+        "stars": 2,
+        "myCommits": 4,
+        "desc": "A bullet-heaven roguelite set inside a computer. I built the character select screen, UI assets, and enemy fixes."
+      }
+    ]
+  },
+
+  "alwaysExclude": {
+    "_comment": "Repos the rules would accept but that should not appear.",
+    "GianneAngely/PERINTIS": "Same project as Prisma-Competition-2025-Rantau. Listing both would double-count the same work.",
+    "GianneAngely/LUMINA": "I have zero commits in it."
+  },
+
+  "overrides": {
+    "_comment": "Custom card copy. 'desc' replaces the repo description, which is what makes these read as portfolio entries instead of generic blurbs.",
+    "OnlyOneArthur/UPTERRA": {
+      "desc": "Eco-tech waste app. I built the Gemini Live AI camera scan and the realtime voice and video assistant."
+    },
+    "Alaika10/strukly_AI_UMKM": {
+      "desc": "Receipt-reading AI for small businesses. I trained the classifier and shipped the JSON inference output."
+    },
+    "OnlyOneArthur/TheDeadLineWarriorProject": {
+      "desc": "A bullet-heaven roguelite set inside a computer. I built the character select screen, UI assets, and enemy fixes."
+    },
+    "GianneAngely/Prisma-Competition-2025-Rantau": {
+      "desc": "RANTAU: kost finder, roommate matcher, and shared bill splitter for students living away from home."
+    },
+    "GianneAngely/dermalyze-expert-system": {
+      "desc": "A rule-based expert system for early skin lesion risk screening, using Forward Chaining and Certainty Factor."
+    }
+  },
+
+  "order": {
+    "_comment": "Cards are sorted by my commit count, descending. Anything named here is pinned to the front in this order instead.",
+    "pinned": []
+  },
+
+  "gridSize": 4,
+
+  "languageColors": {
+    "JavaScript": "#F1E05A",
+    "TypeScript": "#3178C6",
+    "Python": "#3572A5",
+    "Jupyter Notebook": "#DA5B0B",
+    "Processing": "#0096D8",
+    "HTML": "#E34C26",
+    "CSS": "#663399",
+    "PHP": "#4F5D95",
+    "Dart": "#00B4AB",
+    "Java": "#B07219",
+    "C#": "#178600",
+    "C++": "#F34B7D",
+    "C": "#555555",
+    "GDScript": "#355570",
+    "Shell": "#89E051",
+    "Vue": "#41B883",
+    "_default": "#8B949E"
+  }
+}

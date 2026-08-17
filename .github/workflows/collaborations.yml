@@ -1,0 +1,49 @@
+name: Update collaborations
+
+on:
+  schedule:
+    # 03:10 UTC daily. Offset from the hour so it does not queue behind
+    # everyone else's midnight jobs.
+    - cron: "10 3 * * *"
+  workflow_dispatch:
+
+# Never let two runs fight over the same commit.
+concurrency:
+  group: collaborations
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install pyftsubset
+        # Trims the embedded font to the glyphs actually drawn. Optional: the
+        # script falls back to the full face if this step is unavailable.
+        run: pip install --quiet fonttools brotli
+
+      - name: Rebuild collaboration cards
+        env:
+          COLLAB_TOKEN: ${{ secrets.COLLAB_TOKEN }}
+        run: node scripts/build-collaborations.mjs
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "GianneAngely"
+          git config user.email "168960346+GianneAngely@users.noreply.github.com"
+          if git diff --quiet -- README.md COLLABORATIONS.md assets; then
+            echo "no changes"
+            exit 0
+          fi
+          git add README.md COLLABORATIONS.md assets
+          git commit -m "Update collaborations"
+          git push

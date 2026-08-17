@@ -10,17 +10,21 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GianneAngely/GianneAngely/output/pacman-contribution-graph.svg" width="100%">
 </picture>
 
+<!-- collab:start -->
+
 <a href="./COLLABORATIONS.md"><img src="./assets/collab-header.svg" width="100%" alt="Collaborations. View all."/></a>
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/OnlyOneArthur/UPTERRA"><img src="./assets/collab-upterra.svg" width="100%" alt="OnlyOneArthur/UPTERRA, private. Eco-tech waste app. I built the Gemini Live AI camera scan and the realtime voice and video assistant. JavaScript."/></a></td>
-<td width="50%"><a href="https://github.com/Alaika10/strukly_AI_UMKM"><img src="./assets/collab-strukly.svg" width="100%" alt="Alaika10/strukly_AI_UMKM, public. Receipt-reading AI for small businesses. I trained the classifier and shipped the JSON inference output. Jupyter Notebook."/></a></td>
+<td width="50%"><a href="https://github.com/GianneAngely/Prisma-Competition-2025-Rantau"><img src="./assets/collab-prisma-competition-2025-rantau.svg" width="100%" alt="Prisma-Competition-2025-Rantau, Public. RANTAU: kost finder, roommate matcher, and shared bill splitter for students living away from home."/></a></td>
+<td width="50%"><a href="https://github.com/OnlyOneArthur/UPTERRA"><img src="./assets/collab-upterra.svg" width="100%" alt="OnlyOneArthur/UPTERRA, Public. Eco-tech waste app. I built the Gemini Live AI camera scan and the realtime voice and video assistant."/></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/GianneAngely/dermalyze-expert-system"><img src="./assets/collab-dermalyze.svg" width="100%" alt="dermalyze-expert-system, public. A rule-based expert system for early skin lesion risk screening, using Forward Chaining and Certainty Factor. Python."/></a></td>
-<td width="50%"><a href="https://github.com/GianneAngely/Prisma-Competition-2025-Rantau"><img src="./assets/collab-rantau.svg" width="100%" alt="Prisma-Competition-2025-Rantau, public. RANTAU: kost finder, roommate matcher, and shared bill splitter for students living away from home. JavaScript."/></a></td>
+<td width="50%"><a href="https://github.com/GianneAngely/dermalyze-expert-system"><img src="./assets/collab-dermalyze-expert-system.svg" width="100%" alt="dermalyze-expert-system, Public. A rule-based expert system for early skin lesion risk screening, using Forward Chaining and Certainty Factor."/></a></td>
+<td width="50%"><a href="https://github.com/OnlyOneArthur/TheDeadLineWarriorProject"><img src="./assets/collab-thedeadlinewarriorproject.svg" width="100%" alt="OnlyOneArthur/TheDeadLineWarriorProject, Private. A bullet-heaven roguelite set inside a computer. I built the character select screen, UI assets, and enemy fixes."/></a></td>
 </tr>
 </table>
+
+<!-- collab:end -->
 
 </div>
