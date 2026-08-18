@@ -16,8 +16,8 @@
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/GianneAngely/Prisma-Competition-2025-Rantau"><img src="./assets/collab-prisma-competition-2025-rantau.svg" width="100%" alt="Prisma-Competition-2025-Rantau, Public. RANTAU: kost finder, roommate matcher, and shared bill splitter for students living away from home."/></a></td>
 <td width="50%"><a href="https://github.com/OnlyOneArthur/UPTERRA"><img src="./assets/collab-upterra.svg" width="100%" alt="OnlyOneArthur/UPTERRA, Public. Eco-tech waste app. I built the Gemini Live AI camera scan and the realtime voice and video assistant."/></a></td>
+<td width="50%"><a href="https://github.com/GianneAngely/Prisma-Competition-2025-Rantau"><img src="./assets/collab-prisma-competition-2025-rantau.svg" width="100%" alt="Prisma-Competition-2025-Rantau, Public. RANTAU: kost finder, roommate matcher, and shared bill splitter for students living away from home."/></a></td>
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/GianneAngely/dermalyze-expert-system"><img src="./assets/collab-dermalyze-expert-system.svg" width="100%" alt="dermalyze-expert-system, Public. A rule-based expert system for early skin lesion risk screening, using Forward Chaining and Certainty Factor."/></a></td>
