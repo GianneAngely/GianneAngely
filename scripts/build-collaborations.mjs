@@ -147,6 +147,33 @@ const allText =
   candidates.map((c) => c.short + c.desc + c.lang + String(c.stars)).join('') +
   'PrivatePublic0123456789…';
 
+// Real advance widths from the same font the cards embed, so the name and the
+// Public/Private pill never collide. Falls back to the estimates below if
+// fonttools is missing.
+let ADVANCE = null;
+try {
+  const tmp = mkdtempish();
+  const face = join(tmp, 'measure.woff2');
+  writeFileSync(face, Buffer.from(heroFont[1], 'base64'));
+  const py = [
+    'import sys, json',
+    'from fontTools.ttLib import TTFont',
+    'from fontTools.varLib import instancer',
+    'chars = set(sys.stdin.read())',
+    'out = {}',
+    'for w in (400, 600):',
+    '    f = TTFont(sys.argv[1])',
+    '    if "fvar" in f: f = instancer.instantiateVariableFont(f, {"wght": w})',
+    '    cmap, hm, upm = f.getBestCmap(), f["hmtx"].metrics, f["head"].unitsPerEm',
+    '    out[w] = {c: hm[cmap[ord(c)]][0] / upm for c in chars if ord(c) in cmap}',
+    'print(json.dumps(out))',
+  ].join('\n');
+  ADVANCE = JSON.parse(execFileSync('python3', ['-c', py, face], { input: allText + ' ', stdio: ['pipe', 'pipe', 'pipe'] }).toString());
+  console.log('  text widths measured from the font');
+} catch {
+  console.log('  fonttools unavailable, estimating text widths');
+}
+
 let fontB64 = heroFont[1];
 try {
   const tmp = mkdtempish();
@@ -183,6 +210,8 @@ const STAR_ICON = 'M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 
 // Deliberately slightly generous so the pill never lands on top of the name.
 const WIDTH = { narrow: 0.30, wide: 0.88, space: 0.27, upper: 0.66, digit: 0.58, other: 0.545 };
 function textWidth(s, size, bold = false) {
+  const table = ADVANCE && ADVANCE[bold ? 600 : 400];
+  if (table && [...s].every((ch) => ch in table)) return [...s].reduce((t, ch) => t + table[ch], 0) * size;
   let u = 0;
   for (const ch of s) {
     if ('iljtIfr.,:;\'"|!()[]{}/\\-…'.includes(ch)) u += WIDTH.narrow;
