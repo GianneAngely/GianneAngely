@@ -4,6 +4,9 @@
 
 <img src="./assets/stack.svg" width="100%" alt="Tech stack: JavaScript, TypeScript, Python, C#, C++, C, Java, PHP, Dart, HTML, CSS, React, Flutter, Node.js, Vite, Tailwind, Bootstrap, Laravel, MySQL, MariaDB, Godot, Docker, Git, GitHub, Postman, HackerRank, TensorFlow, Google Colab, AWS, Cisco, VS Code, Linux, Arch Linux, Arduino, Figma, Blender, Burp Suite, Wireshark, Metasploit."/>
 
+<a href="https://gianneangely.itch.io"><img src="./assets/games-header.svg" width="100%" alt="Games. All on itch.io."/></a>
+<a href="https://gianneangely.itch.io/cake-tower"><img src="./assets/game-cake-tower.svg" width="33.3%" alt="Cake Tower: stack cakes to the moon. Play free on itch.io."/></a><a href="https://gianneangely.itch.io/claw-friends"><img src="./assets/game-claw-friends.svg" width="33.3%" alt="Claw Friends: a cozy 3D claw machine arcade. Play free on itch.io."/></a><a href="https://gianneangely.itch.io/owl-stare"><img src="./assets/game-owl-stare.svg" width="33.3%" alt="Owl Stare: a staring contest against owls. Play free on itch.io."/></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GianneAngely/GianneAngely/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GianneAngely/GianneAngely/output/pacman-contribution-graph.svg">
