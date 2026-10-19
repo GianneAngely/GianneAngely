@@ -7,7 +7,7 @@
 <!-- games:start -->
 
 <a href="https://gianneangely.itch.io"><img src="./assets/games-header.svg" width="100%" alt="Games. All on itch.io."/></a>
-<a href="https://gianneangely.itch.io/cake-tower"><img src="./assets/game-cake-tower.svg" width="33.3%" alt="Cake Tower: stack cakes to the moon. Play free on itch.io."/></a><a href="https://gianneangely.itch.io/claw-friends"><img src="./assets/game-claw-friends.svg" width="33.3%" alt="Claw Friends: a cozy 3D claw machine arcade. Play free on itch.io."/></a><a href="https://gianneangely.itch.io/owl-stare"><img src="./assets/game-owl-stare.svg" width="33.3%" alt="Owl Stare: a staring contest against owls. Play free on itch.io."/></a>
+<a href="https://gianneangely.itch.io/owl-stare"><img src="./assets/game-owl-stare.svg" width="33.3%" alt="Owl Stare: a staring contest against owls. Play free on itch.io."/></a><a href="https://gianneangely.itch.io/claw-friends"><img src="./assets/game-claw-friends.svg" width="33.3%" alt="Claw Friends: a cozy 3D claw machine arcade. Play free on itch.io."/></a><a href="https://gianneangely.itch.io/cake-tower"><img src="./assets/game-cake-tower.svg" width="33.3%" alt="Cake Tower: stack cakes to the moon. Play free on itch.io."/></a>
 
 <!-- games:end -->
 
