@@ -1,0 +1,11 @@
+{
+  "_comment": "Games cards under Tech Stack. The newest 'count' games from the itch.io feed are shown, skipping 'exclude'. 'lines' sets the short sentence on each card; a game without one falls back to the first sentence of its itch short description.",
+  "feed": "https://itch.io/games/newest/by-gianneangely.xml",
+  "count": 3,
+  "exclude": ["the-deadline-warrior"],
+  "lines": {
+    "cake-tower": "stack cakes to the moon",
+    "claw-friends": "a cozy 3D claw machine arcade",
+    "owl-stare": "a staring contest against owls"
+  }
+}
