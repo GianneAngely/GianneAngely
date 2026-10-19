@@ -266,7 +266,7 @@ function cardSvg(c) {
   const langColor = CFG.languageColors[c.lang] || CFG.languageColors._default;
   const starX = Math.round(P + 13 + textWidth(c.lang, 11.5) + 16);
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(c.short)}, ${label}. ${esc(c.desc)} ${esc(c.lang)}${c.stars ? `, ${c.stars} stars` : ''}.">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W + 10}" height="${H}" viewBox="-5 0 ${W + 10} ${H}" role="img" aria-label="${esc(c.short)}, ${label}. ${esc(c.desc)} ${esc(c.lang)}${c.stars ? `, ${c.stars} stars` : ''}.">
   ${FONT_CSS}
   <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="6" fill="${C.bg}" stroke="${C.border}"/>
   <g transform="translate(${P}, 15)" fill="${C.muted}"><path d="${c.isPrivate ? LOCK_ICON : REPO_ICON}"/></g>
@@ -329,11 +329,14 @@ const START = '<!-- collab:start -->';
 const END = '<!-- collab:end -->';
 const readmePath = join(ROOT, 'README.md');
 let readme = readFileSync(readmePath, 'utf8');
+// Same layout as the Games section: header and cards in one paragraph, no
+// table, so the cards sit right under the header. Cards are on one line with
+// no spaces between them; a space would break the two-per-row wrap.
+const inline = (c) => `<a href="${c.href}"><img src="./assets/${c.file}" width="50%" alt="${esc(c.short)}, ${c.isPrivate ? 'Private' : 'Public'}. ${esc(c.desc)}"/></a>`;
 const block = `${START}
 
 <a href="./COLLABORATIONS.md"><img src="./assets/collab-header.svg" width="100%" alt="Collaborations. View all."/></a>
-
-${grid(candidates.slice(0, CFG.gridSize))}
+${candidates.slice(0, CFG.gridSize).map(inline).join('')}
 
 ${END}`;
 
