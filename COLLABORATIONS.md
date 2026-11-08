@@ -4,7 +4,7 @@ Most of my team work does not show up on my GitHub profile, because it either li
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/GianneAngely/senat-fti-web"><img src="./assets/collab-senat-fti-web.svg" width="100%" alt="senat-fti-web, Private. Website kepengurusan Senat Mahasiswa FTI Universitas Dhyana Pura 2025/26."/></a></td>
+<td width="50%"><a href="https://github.com/GianneAngely/senat-fti-web"><img src="./assets/collab-senat-fti-web.svg" width="100%" alt="senat-fti-web, Private. Website resmi Senat Mahasiswa FTI Universitas Dhyana Pura (Kabinet Prawira Karsa 2025/2026): aspirasi, prestasi, oprec, pengurus, proker, dan Portal admin di atas Google Apps Script."/></a></td>
 <td width="50%"><a href="https://github.com/OnlyOneArthur/UPTERRA"><img src="./assets/collab-upterra.svg" width="100%" alt="OnlyOneArthur/UPTERRA, Public. Eco-tech waste app. I built the Gemini Live AI camera scan and the realtime voice and video assistant."/></a></td>
 </tr>
 <tr>
